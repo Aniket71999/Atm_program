@@ -1,2 +1,2 @@
 ## Atm_program
-### The atm program is in Atm_program file and output is in Output file.
+### The Atm program is in atm_program file and Output is in output file.
