@@ -13,8 +13,6 @@ class currency
         return getcash;
         
     }
-    //virtual int submitcurrency()=0;
-    //virtual int withdrawcurrency()=0;
     };
     
 class twothousand: public currency
