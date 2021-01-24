@@ -13,7 +13,7 @@ class currency
         return getcash;
         
     }
-    };
+};
     
 class twothousand: public currency
 {
